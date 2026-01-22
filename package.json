@@ -4,7 +4,7 @@
   "description": "grit co website Prototype",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --no-turbo",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
